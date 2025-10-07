@@ -1,0 +1,11 @@
+print("goa is bast")
+print(10)
+print(19.9)
+name = (vasiko)
+print(name)
+age = (15)
+print(age)
+food = shaurma
+print(food)
+color = (red)
+prin(red)
